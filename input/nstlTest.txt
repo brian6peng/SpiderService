@@ -1,0 +1,4 @@
+﻿{
+    "searchKeyWord": "android",
+    "outputPath": "J:\\快盘\\Project\\SpiderService\\output\\nstlTest.txt"
+}

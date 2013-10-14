@@ -1,0 +1,4 @@
+{
+    "resultCount": "693",
+    "bibs": null
+}
